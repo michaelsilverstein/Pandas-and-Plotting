@@ -6,5 +6,5 @@ These assignments are generally for > beginners to `pandas` and plotting in Pyth
 ## [Weight timeseries data](weight_timeseries/weight_timeseries_assignment.ipynb)
 A mock datasets of the weight of twenty different people over time. Explores data transformations, merging, aggregating, and plotting.
 
-## [Lessons]
+## Lessons
 1. [Melting and pivotting in `pandas`](lessons/melting_pivotting.ipynb)
