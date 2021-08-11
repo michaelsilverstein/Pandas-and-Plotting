@@ -10,3 +10,4 @@ A mock datasets of the weight of twenty different people over time. Explores dat
 
 # Lessons
 1. [Melting and pivotting in `pandas`](lessons/melting_pivotting.ipynb)
+2. [Stacked Barplot Function](lessons/stacked_bar_chart.ipynb)
